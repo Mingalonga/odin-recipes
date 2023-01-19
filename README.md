@@ -1,1 +1,1 @@
-Trying to do something with my life eksde
+Applying css
