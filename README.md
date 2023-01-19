@@ -1,1 +1,1 @@
-Applying css
+Applying css to the recipes
